@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C01-A0E1
+
+ Directory of C:\Users\Raksha r p\Desktop\git
+
+08-01-2019  PM 03:15    <DIR>          .
+08-01-2019  PM 03:15    <DIR>          ..
+08-01-2019  PM 03:15                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  158,064,508,928 bytes free
